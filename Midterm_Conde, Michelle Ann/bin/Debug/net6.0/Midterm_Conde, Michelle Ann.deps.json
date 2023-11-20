@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Midterm_Conde, Michelle Ann/1.0.0": {
+        "runtime": {
+          "Midterm_Conde, Michelle Ann.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Midterm_Conde, Michelle Ann/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
